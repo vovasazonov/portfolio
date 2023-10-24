@@ -1,1 +1,1 @@
-<img src="https://github.com/vovasazonov/portfolio/blob/master/assets/img/profile.png" alt="Girl in a jacket" width="500" height="500">
+<img src="https://github.com/vovasazonov/portfolio/blob/master/assets/img/profile.png" alt="Girl in a jacket" width="150" height="150">
