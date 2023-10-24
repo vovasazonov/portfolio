@@ -1,8 +1,9 @@
 ---
 ---
+
+@import "{{ site.theme }}";
+
 img{
   border: 0px;
   box-shadow: 0px;
 }
-
-@import "{{ site.theme }}";
