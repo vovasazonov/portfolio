@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <center><img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/profile.png" alt="Profile" width="150" height="150"></center>
 <center>
   <a href="https://www.linkedin.com/in/vladimir-sazonov-66247b21a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -16,9 +20,10 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
 <center>
   <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/icon.png" alt="count-sheep-icon" width="100" height="100">
 </center>
-<center>
-  <a><b>Count Sheep</b></a>
-</center>
+
+> Jump, Merge, Collect: Endless Sheep Fun!
+>
+> Welcome to the whimsical realm of Count Sheep, where jumping, merging, and collecting come together in a delightful and engaging adventure!
 
 <center>
 <iframe width="506" height="285" src="https://www.youtube.com/embed/RWDRQd1MnFw?si=GLzBj1pHYL3E1asc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
