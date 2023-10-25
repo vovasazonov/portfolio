@@ -207,6 +207,8 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
 </html>
 -->
 
+<!-- 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 -->
+
 <html>
   <head>
     <title>Slideshow Images</title>
@@ -322,7 +324,7 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
     </style>
   </head>
   <body>
-    <section id="main-content">
+    <center>
       <div class="slideshow-container">
         <div class="mySlides fade">
           <div class="numbertext">1 / 4</div>
@@ -354,7 +356,7 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
         <span class="dot" onclick="currentSlide(3)"></span>
         <span class="dot" onclick="currentSlide(4)"></span>
       </div>
-    </section>
+    </center>
     <script>
       var slideIndex = 1;
       showSlides(slideIndex);
