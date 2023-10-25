@@ -6,7 +6,7 @@
   <a href="https://wa.me/+972508150772">
     <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/whatsapp-icon.png" alt="whatsapp" width="36" height="36">
   </a>
-  <a href="vova.sazonovvv@gmail.com">
+  <a href="mailto:vova.sazonovvv@gmail.com">
     <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/gmail-icon.png" alt="gmail" width="36" height="36">
   </a>
 </center>
