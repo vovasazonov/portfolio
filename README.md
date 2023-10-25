@@ -225,7 +225,7 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
         vertical-align: middle;
       }
       .slideshow-container {
-        max-width: 1000px;
+        max-width: 506px;
         position: relative;
         margin: auto;
       }
