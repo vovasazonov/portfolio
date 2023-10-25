@@ -14,7 +14,7 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
 
 ***
 <center>
-  <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/icon.png" alt="count-sheep-icon" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/icon.png" alt="count-sheep-icon" width="150" height="150">
 </center>
 
 > Count Sheep: Jump, Merge, Collect
@@ -27,15 +27,15 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
 
 ***
 <center>
-  <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/trees-story/icon.png" alt="trees-story-icon" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/trees-story/icon.png" alt="trees-story-icon" width="150" height="150">
 </center>
 
 > Tree's story
 >
-> Game that includes eleven fascinating stages, based on the plot of the children's book "עץ הדר בלב מדבר". In this game, you can experience the adventures of the spectacular story through a variety of different and enriching missions.
+> Game that includes eleven fascinating stages, based on the plot of the children's book "עץ הדר בלב מדבר".
 
 <center>
-<iframe width="506" height="285" src="https://www.youtube.com/watch?v=9KqzKrdDlR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="506" height="285" src="https://www.youtube.com/embed/9KqzKrdDlR8?si=l5gZBH75rpJkgas2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 <!--
