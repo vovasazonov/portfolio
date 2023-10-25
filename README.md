@@ -131,25 +131,24 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
   <body>
     <div class="slideshow-container">
       <div class="mySlides fade">
-        <div class="numbertext">1 / 3</div>
+        <div class="numbertext">1 / 4</div>
         <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_1.png" style="width:100%">
-        <div class="text">Endless jump mode</div>
+        <div class="text"></div>
       </div>
       <div class="mySlides fade">
-        <div class="numbertext">2 / 3</div>
+        <div class="numbertext">2 / 4</div>
         <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_2.png" style="width:100%">
-        <div class="text">Merge sheep</div>
+        <div class="text"></div>
       </div>
       <div class="mySlides fade">
-        <div class="numbertext">2 / 3</div>
+        <div class="numbertext">3 / 4</div>
         <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_3.png" style="width:100%">
-        <div class="text">Try to find new sheep</div>
+        <div class="text"></div>
       </div>
       <div class="mySlides fade">
-        <div class="numbertext">2 / 3</div>
+        <div class="numbertext">4 / 4</div>
         <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_4.png" style="width:100%">
-        <div class="text">Watch your collection</div>
-      </div>
+        <div class="text"></div>
       </div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
@@ -159,6 +158,7 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
       <span class="dot" onclick="currentSlide(1)"></span>
       <span class="dot" onclick="currentSlide(2)"></span>
       <span class="dot" onclick="currentSlide(3)"></span>
+      <span class="dot" onclick="currentSlide(4)"></span>
     </div>
     <script>
       var slideIndex = 1;
