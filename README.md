@@ -14,7 +14,7 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
 
 ***
 
-### Count Sheep
+#### Count Sheep
 <center>
   <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/count-sheep/icon.png" alt="count-sheep-icon" width="100" height="100">
 </center>
