@@ -308,6 +308,7 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
     </style>
   </head>
   <body>
+    <center>
     <div class="slideshow-container">
       <div class="mySlides fade">
         <div class="numbertext">1 / 4</div>
@@ -368,6 +369,7 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
         dots[slideIndex - 1].className += " active";
       }
     </script>
+      <center>
   </body>
 
 ***
