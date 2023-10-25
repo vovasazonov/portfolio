@@ -22,7 +22,7 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
 </center>
 
 > Count Sheep: Jump, Merge, Collect
->
+> 
 > Welcome to the whimsical realm of Count Sheep, where jumping, merging, and collecting come together in a delightful and engaging adventure!
 
 <center>
