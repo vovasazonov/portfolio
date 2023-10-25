@@ -18,7 +18,7 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
 <iframe width="506" height="285" src="https://www.youtube.com/embed/RWDRQd1MnFw?si=GLzBj1pHYL3E1asc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
-<!--
+
 <html>
   <head>
     <title>Slideshow Images</title>
@@ -134,37 +134,39 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
     </style>
   </head>
   <body>
-    <div class="slideshow-container">
-      <div class="mySlides fade">
-        <div class="numbertext">1 / 4</div>
-        <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_1.png" style="width:100%">
-        <div class="text"></div>
+    <section id="main-content">
+      <div class="slideshow-container">
+        <div class="mySlides fade">
+          <div class="numbertext">1 / 4</div>
+          <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_1.png" style="width:100%">
+          <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+          <div class="numbertext">2 / 4</div>
+          <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_2.png" style="width:100%">
+          <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+          <div class="numbertext">3 / 4</div>
+          <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_3.png" style="width:100%">
+          <div class="text"></div>
+        </div>
+        <div class="mySlides fade">
+          <div class="numbertext">4 / 4</div>
+          <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_4.png" style="width:100%">
+          <div class="text"></div>
+        </div>
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
       </div>
-      <div class="mySlides fade">
-        <div class="numbertext">2 / 4</div>
-        <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_2.png" style="width:100%">
-        <div class="text"></div>
+      <br>
+      <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+        <span class="dot" onclick="currentSlide(4)"></span>
       </div>
-      <div class="mySlides fade">
-        <div class="numbertext">3 / 4</div>
-        <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_3.png" style="width:100%">
-        <div class="text"></div>
-      </div>
-      <div class="mySlides fade">
-        <div class="numbertext">4 / 4</div>
-        <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_4.png" style="width:100%">
-        <div class="text"></div>
-      </div>
-      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-      <a class="next" onclick="plusSlides(1)">&#10095;</a>
-    </div>
-    <br>
-    <div style="text-align:center">
-      <span class="dot" onclick="currentSlide(1)"></span>
-      <span class="dot" onclick="currentSlide(2)"></span>
-      <span class="dot" onclick="currentSlide(3)"></span>
-      <span class="dot" onclick="currentSlide(4)"></span>
-    </div>
+    </section>
     <script>
       var slideIndex = 1;
       showSlides(slideIndex);
@@ -196,6 +198,6 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
     </script>
   </body>
 </html>
--->
+
 
 ***
