@@ -17,9 +17,17 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
   <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/icon.png" alt="count-sheep-icon" width="150" height="150">
 </center>
 
-> Count Sheep: Jump, Merge, Collect
-> 
-> Welcome to the whimsical realm of Count Sheep, where jumping, merging, and collecting come together in a delightful and engaging adventure!
+**Count Sheep**
+
+Welcome to the whimsical realm of Count Sheep, where jumping, merging, and collecting come together in a delightful and engaging adventure!
+
+**Working time**
+
+1 month.
+
+**Role in the project**
+
+I did the whole project.
 
 <center>
 <iframe width="506" height="285" src="https://www.youtube.com/embed/RWDRQd1MnFw?si=GLzBj1pHYL3E1asc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
