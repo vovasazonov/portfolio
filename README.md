@@ -132,18 +132,24 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
     <div class="slideshow-container">
       <div class="mySlides fade">
         <div class="numbertext">1 / 3</div>
-        <img src="/uploads/media/default/0001/03/66cf5094908491e69d8187bcf934050a4800b37f.jpeg" style="width:100%">
-        <div class="text">London, Ebgland</div>
+        <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_1.png" style="width:100%">
+        <div class="text">Endless jump mode</div>
       </div>
       <div class="mySlides fade">
         <div class="numbertext">2 / 3</div>
-        <img src="/uploads/media/default/0001/03/b7d624354d5fa22e38b0ab1f9b905fb08ccc6a05.jpeg" style="width:100%">
-        <div class="text">Sunset in Romania</div>
+        <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_2.png" style="width:100%">
+        <div class="text">Merge sheep</div>
       </div>
       <div class="mySlides fade">
-        <div class="numbertext">3 / 3</div>
-        <img src="/uploads/media/default/0001/03/5bfad15a7fd24d448a48605baf52655a5bbe5a71.jpeg" style="width:100%">
-        <div class="text">New York, USA</div>
+        <div class="numbertext">2 / 3</div>
+        <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_3.png" style="width:100%">
+        <div class="text">Try to find new sheep</div>
+      </div>
+      <div class="mySlides fade">
+        <div class="numbertext">2 / 3</div>
+        <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/count-sheep/market_image_4.png" style="width:100%">
+        <div class="text">Watch your collection</div>
+      </div>
       </div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
