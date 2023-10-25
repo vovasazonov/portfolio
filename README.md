@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 <center><img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/profile.png" alt="Profile" width="150" height="150"></center>
 <center>
   <a href="https://www.linkedin.com/in/vladimir-sazonov-66247b21a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -218,7 +225,8 @@ My name is Vladimir Sazonov, a software developer specializing in Unity Engine a
         vertical-align: middle;
       }
       .slideshow-container {
-        max-width: 250px;
+        max-width: 1000px;
+        max-height: 285px;
         position: relative;
         margin: auto;
       }
