@@ -13,8 +13,14 @@
 My name is Vladimir Sazonov, a software developer specializing in Unity Engine and exploring backend development using Node.js. Explore my portfolio and connect for potential collaborations.
 
 ***
+<!--
 <center>
 <iframe width="506" height="285" src="https://www.youtube.com/embed/RWDRQd1MnFw?si=GLzBj1pHYL3E1asc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+-->
+
+<center>
+<iframe" src="https://www.youtube.com/embed/RWDRQd1MnFw?si=GLzBj1pHYL3E1asc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 <!--
