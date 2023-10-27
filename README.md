@@ -72,7 +72,7 @@ We are a team of 5 people: 2 artists and 3 developers. I am a developer of this 
 
 **Grow Jump Game (GameJam 2022)**
 
-The project was done by 2 days for GameJam 2022 in Israel, Haifa.
+The project was done by 2 days for GameJam2022 (Tiltan) in Israel, Haifa.
 
 **Role in the project**
 
@@ -81,9 +81,3 @@ We are a team of 5 people: game designer, 2 artists and 2 developers. I am a dev
 <center>
 <iframe width="506" height="285" src="https://www.youtube.com/embed/5X8x-K1SAu0?si=LlVjug03qUeWYfKO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
-
-<center>
-  <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/trees-story/icon.png" alt="trees-story-icon" width="150" height="150">
-</center>
-
-***
