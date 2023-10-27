@@ -42,7 +42,7 @@ Game that includes eleven fascinating stages, based on the plot of the children'
 
 **Role in the project**
 
-We are a team of 3 people: game designer & author of the book "עץ הדר בלב מדבר", artist and developer. I am a developer of this game.
+We are a team of 3 people: game designer & author of the book, artist and developer. I am a developer of this game.
 
 <center>
 <iframe width="506" height="285" src="https://www.youtube.com/embed/9KqzKrdDlR8?si=l5gZBH75rpJkgas2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
