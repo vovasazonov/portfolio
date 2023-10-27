@@ -42,10 +42,48 @@ Game that includes eleven fascinating stages, based on the plot of the children'
 
 **Role in the project**
 
-We are the team of 3 people: the game designer & author of book "עץ הדר בלב מדבר", art and developer. I am a developer of this game.
+We are a team of 3 people: game designer & author of the book "עץ הדר בלב מדבר", artist and developer. I am a developer of this game.
 
 <center>
 <iframe width="506" height="285" src="https://www.youtube.com/embed/9KqzKrdDlR8?si=l5gZBH75rpJkgas2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+***
+<center>
+  <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/trees-story/icon.png" alt="trees-story-icon" width="150" height="150">
+</center>
+
+**CLIMATE KEEP (GMTK 2023)**
+
+The project was done by 2 days for GMTK2023. You can play the game [here](https://battleforce.itch.io/climate-keep).
+
+**Role in the project**
+
+We are a team of 5 people: 2 artists and 3 developers. I am a developer of this game.
+
+<center>
+<iframe width="506" height="285" src="https://www.youtube.com/embed/5X8x-K1SAu0?si=LlVjug03qUeWYfKO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+***
+<center>
+  <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/trees-story/icon.png" alt="trees-story-icon" width="150" height="150">
+</center>
+
+**Grow Jump Game (GameJam 2022)**
+
+The project was done by 2 days for GameJam 2022 in Israel, Haifa.
+
+**Role in the project**
+
+We are a team of 5 people: game designer, 2 artists and 2 developers. I am a developer of this game.
+
+<center>
+<iframe width="506" height="285" src="https://www.youtube.com/embed/5X8x-K1SAu0?si=LlVjug03qUeWYfKO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</center>
+
+<center>
+  <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/trees-story/icon.png" alt="trees-story-icon" width="150" height="150">
 </center>
 
 ***
