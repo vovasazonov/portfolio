@@ -62,7 +62,7 @@ The project was done by 2 days for GMTK2023. You can play the game [here](https:
 We are a team of 5 people: 2 artists and 3 developers. I am a developer of this game.
 
 <center>
-<iframe width="506" height="285" src="https://www.youtube.com/embed/5X8x-K1SAu0?si=LlVjug03qUeWYfKO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/--n9aC20uKU?si=I9FvbzpFP4FVkMvT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
 ***
