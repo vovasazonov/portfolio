@@ -50,7 +50,7 @@ We are a team of 3 people: game designer & author of the book "עץ הדר בל�
 
 ***
 <center>
-  <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/trees-story/icon.png" alt="trees-story-icon" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/climate-keep/icon.png" alt="trees-story-icon" width="150" height="150">
 </center>
 
 **CLIMATE KEEP (GMTK 2023)**
@@ -67,7 +67,7 @@ We are a team of 5 people: 2 artists and 3 developers. I am a developer of this 
 
 ***
 <center>
-  <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/trees-story/icon.png" alt="trees-story-icon" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/vovasazonov/portfolio/master/assets/img/projects/grow-jump/icon.png" alt="trees-story-icon" width="150" height="150">
 </center>
 
 **Grow Jump Game (GameJam 2022)**
