@@ -12,7 +12,7 @@
 </center>
 My name is Vladimir Sazonov, a software developer specializing in Unity Engine and exploring backend development using Node.js. Explore my portfolio and connect for potential collaborations.
 
-- ✏️My [resume](https://www.linkedin.com/in/vladimir-sazonov-66247b21a)
+- ✏️My [resume](https://my.visme.co/view/1jkddvpw-new-project)
 
 ***
 <center>
