@@ -27,7 +27,7 @@ Welcome to the whimsical realm of Count Sheep, where jumping, merging, and colle
 
 Whole project was done by me.
 
-**Github CODE:** [https://github.com/vovasazonov/CountSheepDemo](https://github.com/vovasazonov/CountSheepDemo)
+**Github CODE:** [https://github.com/vovasazonov/CountSheep_Demo](https://github.com/vovasazonov/CountSheep_Demo)
 
 <center>
 <iframe width="506" height="285" src="https://www.youtube.com/embed/RWDRQd1MnFw?si=GLzBj1pHYL3E1asc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
